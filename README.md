@@ -1,5 +1,5 @@
 [![NPM Version](https://badge.fury.io/js/states-us.svg)](https://badge.fury.io/js/states-us)
-[![Build Status](https://travis-ci.org/justinlettau/states-us.svg?branch=master)](https://travis-ci.org/justinlettau/states-us)
+[![CI](https://github.com/justinlettau/states-us/workflows/CI/badge.svg)](https://github.com/justinlettau/states-us/actions)
 [![Dev Dependency Status](https://david-dm.org/justinlettau/states-us/dev-status.svg)](https://david-dm.org/justinlettau/states-us?type=dev)
 [![codecov](https://codecov.io/gh/justinlettau/states-us/branch/master/graph/badge.svg)](https://codecov.io/gh/justinlettau/states-us)
 
@@ -21,15 +21,15 @@ import states from 'states-us';
 console.log(states);
 // => all states and territories
 
-const example1 = states.filter(x => x.contiguous);
+const example1 = states.filter((x) => x.contiguous);
 console.log(example1);
 // => contiguous states only
 
-const example2 = states.filter(x => x.territory);
+const example2 = states.filter((x) => x.territory);
 console.log(example2);
 // => territories only
 
-const example3 = states.map(x => x.abbreviation);
+const example3 = states.map((x) => x.abbreviation);
 console.log(example2);
 // => all state/territory abbreviations
 ```
