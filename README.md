@@ -1,6 +1,5 @@
 [![NPM Version](https://badge.fury.io/js/states-us.svg)](https://badge.fury.io/js/states-us)
 [![CI](https://github.com/justinlettau/states-us/workflows/CI/badge.svg)](https://github.com/justinlettau/states-us/actions)
-[![Dev Dependency Status](https://david-dm.org/justinlettau/states-us/dev-status.svg)](https://david-dm.org/justinlettau/states-us?type=dev)
 [![codecov](https://codecov.io/gh/justinlettau/states-us/branch/master/graph/badge.svg)](https://codecov.io/gh/justinlettau/states-us)
 
 # US States
