@@ -61,12 +61,6 @@ const states = [
     contiguous: true,
   },
   {
-    name: 'Federated States Of Micronesia',
-    abbreviation: 'FM',
-    territory: true,
-    contiguous: false,
-  },
-  {
     name: 'Florida',
     abbreviation: 'FL',
     territory: false,
@@ -137,12 +131,6 @@ const states = [
     abbreviation: 'ME',
     territory: false,
     contiguous: true,
-  },
-  {
-    name: 'Marshall Islands',
-    abbreviation: 'MH',
-    territory: true,
-    contiguous: false,
   },
   {
     name: 'Maryland',
