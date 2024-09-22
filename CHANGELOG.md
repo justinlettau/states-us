@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.1](https://github.com/justinlettau/states-us/compare/v1.1.0...v1.1.1) (2024-09-22)
+
+
+### Bug Fixes
+
+* types file extension ([8f33f11](https://github.com/justinlettau/states-us/commit/8f33f11600e144a72ab06a006b2c2bae57e67ac7)), closes [#63](https://github.com/justinlettau/states-us/issues/63)
+
 ## [1.1.0](https://github.com/justinlettau/states-us/compare/v1.0.4...v1.1.0) (2024-09-22)
 
 
