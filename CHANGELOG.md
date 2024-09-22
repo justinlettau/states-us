@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/justinlettau/states-us/compare/v1.0.4...v1.1.0) (2024-09-22)
+
+
+### Features
+
+* add state interface ([0500d93](https://github.com/justinlettau/states-us/commit/0500d938470dd8c33a579877d5e8b3fd1fafc7d9))
+
 ## [1.0.4](https://github.com/justinlettau/states-us/compare/v1.0.3...v1.0.4) (2023-11-18)
 
 
