@@ -33,7 +33,7 @@ console.log(example2);
 // => all state/territory abbreviations
 ```
 
-The default export from `states-us` is an array of object with the following structure:
+The default export from `states-us` is an array of `State`, with the following structure:
 
 | Property       | Type      | Description                            | Example  |
 | -------------- | --------- | -------------------------------------- | -------- |

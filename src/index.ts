@@ -1,5 +1,11 @@
-// tslint:disable: object-literal-sort-keys
-const states = [
+export interface State {
+  name: string;
+  abbreviation: string;
+  territory: boolean;
+  contiguous: boolean;
+}
+
+export const states: State[] = [
   {
     name: 'Alabama',
     abbreviation: 'AL',
